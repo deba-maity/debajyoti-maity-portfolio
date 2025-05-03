@@ -118,3 +118,28 @@
         }
     }
 }
+
+.contact__content__info {
+    margin-top: 2rem;
+    color: white;
+    font-size: 2.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  
+    &__item {
+      line-height: 1.6;
+  
+      a {
+        color: #facc15;
+        text-decoration: none;
+        transition: transform 0.2s ease;
+  
+        &:hover {
+          text-decoration: underline;
+          transform: scale(1.05);
+        }
+      }
+    }
+  }
+  

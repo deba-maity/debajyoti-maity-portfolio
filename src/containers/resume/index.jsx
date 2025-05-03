@@ -1,6 +1,6 @@
 import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
-import { BsInfoCircleFill } from "react-icons/bs";
+import { FiDownload } from "react-icons/fi";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -15,7 +15,16 @@ const Resume = () => {
     <section id="resume" className="resume">
       <PageHeaderContent
         headerText="My Resume"
-        icon={<BsInfoCircleFill size={40} />}
+        icon={
+          <a
+            href="/Debajyoti_Angular17_Resume.pdf"
+            download
+            className="res"
+            // className="ml-4 inline-block bg-yellow-500 text-black font-semibold px-4 py-2 rounded hover:bg-yellow-400 transition duration-200 text-base"
+            >
+            Download Resume <FiDownload style={{ marginLeft: "0.5rem", verticalAlign: "middle" }} />
+          </a>
+        }
       />
       <div className="timeline">
         <div className="timeline__experience">

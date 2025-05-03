@@ -9,29 +9,28 @@ import { FaDev, FaDatabase } from "react-icons/fa";
 const personalDetails = [
   {
     label: "Name",
-    value: "John Doe",
+    value: "Debajyoti Maity",
   },
   {
-    label: "Age",
-    value: "27",
+    label: "Experience",
+    value: "2.5 years",
   },
   {
     label: "Address",
-    value: "India",
+    value: "Visakhapatnam, Andhra Pradesh",
   },
   {
     label: "Email",
-    value: "demo@example.com",
+    value: "debajyoti.maity29@gmail.com",
   },
   {
     label: "Contact No",
-    value: "+11 3456789056",
+    value: "7679101800",
   },
 ];
 
 const jobSummary =
-  "Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. Very passionate about aesthetics and UI design. It is imperative that you provide a thorough and professional approach to your resume. As a Front End Developer you will be judged by your ability to use UX and UI concepts and follow design guidelines. It is about expressing your attention to detail and how you can help implement design ideas for your future employer";
-
+"I am a seasoned Angular and UI Developer with 2.5 years of experience in startups, and MNCs. I have worked on mobile apps, desktop applications, and dynamic, user-centric web solutions. My expertise spans Angular, Ionic, TypeScript, and CSS frameworks like Tailwind. I focus on delivering responsive, high-quality applications with an emphasis on UI/UX, user experience optimization, and bug-free deployments. I am passionate about creating visually appealing and functional interfaces."
 const About = () => {
   return (
     <section id="about" className="about">
