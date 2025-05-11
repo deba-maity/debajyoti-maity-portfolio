@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/debajyoti-maity-portfolio/static/css/main.8d09c947.css",
-    "main.js": "/debajyoti-maity-portfolio/static/js/main.fd95e109.js",
+    "main.js": "/debajyoti-maity-portfolio/static/js/main.6725fb7f.js",
     "static/js/937.7ee3d631.chunk.js": "/debajyoti-maity-portfolio/static/js/937.7ee3d631.chunk.js",
     "static/media/image1.jpg": "/debajyoti-maity-portfolio/static/media/image1.8e4e65683dc0149fc984.jpg",
     "static/media/image3.jpg": "/debajyoti-maity-portfolio/static/media/image3.9b66aa7c0651acf1cfb7.jpg",
@@ -10,11 +10,11 @@
     "static/media/image2.jpg": "/debajyoti-maity-portfolio/static/media/image2.baf82bff0266b026ebca.jpg",
     "index.html": "/debajyoti-maity-portfolio/index.html",
     "main.8d09c947.css.map": "/debajyoti-maity-portfolio/static/css/main.8d09c947.css.map",
-    "main.fd95e109.js.map": "/debajyoti-maity-portfolio/static/js/main.fd95e109.js.map",
+    "main.6725fb7f.js.map": "/debajyoti-maity-portfolio/static/js/main.6725fb7f.js.map",
     "937.7ee3d631.chunk.js.map": "/debajyoti-maity-portfolio/static/js/937.7ee3d631.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d09c947.css",
-    "static/js/main.fd95e109.js"
+    "static/js/main.6725fb7f.js"
   ]
 }
